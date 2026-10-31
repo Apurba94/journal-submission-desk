@@ -14,6 +14,11 @@ next.
 
 You enter your own journal figures, so the numbers are the ones you trust. `--demo` opens a temporary database with fictional data.
 
+## Download
+
+Windows: get the `.exe` from [Releases](https://github.com/Apurba94/journal-submission-desk/releases/latest) and double-click it. No installation or Python is needed.
+Windows may show a SmartScreen warning the first time because the program is not code-signed: choose *More info*, then *Run anyway*.
+
 ## From source
 
 ```bash
